@@ -1,0 +1,16 @@
+{
+    "name": "todo-connectwallet",
+    "version": "1.0.0",
+    "description": "A simple To-Do List app with a Connect Wallet button",
+    "main": "script.js",
+    "scripts": {
+      "start": "serve"
+    },
+    "dependencies": {
+      "@solana/web3.js": "^1.30.2"
+    },
+    "devDependencies": {
+      "serve": "^13.0.0"
+    }
+  }
+  
